@@ -1,0 +1,13 @@
+<map id="atwork_commander::task_generator::simple::Generator" name="atwork_commander::task_generator::simple::Generator">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1task__generator_1_1GeneratorPluginInterface.html" title="atwork_commander::task\l_generator::GeneratorPluginInterface" alt="" coords="1693,25,1928,66"/>
+<area shape="rect" id="node4" href="$structatwork__commander_1_1task__generator_1_1ObjectType.html" title="atwork_commander::task\l_generator::ObjectType" alt="" coords="1065,57,1235,98"/>
+<area shape="rect" id="node5" href="$structatwork__commander_1_1task__generator_1_1ObjectBase.html" title="atwork_commander::task\l_generator::ObjectBase" alt="" coords="597,29,767,70"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="181,236,261,263"/>
+<area shape="rect" id="node9" href="$structatwork__commander_1_1task__generator_1_1Table.html" title="atwork_commander::task\l_generator::Table" alt="" coords="397,145,567,186"/>
+<area shape="rect" id="node11" href="$classatwork__commander_1_1ConfigParserInterface.html" title="atwork_commander::Config\lParserInterface" alt="" coords="591,203,773,245"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,229,132,270"/>
+<area shape="rect" id="node10" href="$classatwork__commander_1_1task__generator_1_1DefaultConfigParser.html" title="atwork_commander::task\l_generator::DefaultConfigParser" alt="" coords="1706,227,1915,269"/>
+<area shape="rect" id="node13" href="$structatwork__commander_1_1TaskDefinition.html" title="Configuration Information for TaskGenerator representing specific task type. " alt="" coords="805,321,1033,348"/>
+<area shape="rect" id="node16" href="$structatwork__commander_1_1ArenaDescription.html" title="Configuration Information for TaskGenerator representing Arena. " alt="" coords="797,452,1041,479"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="1742,394,1879,435"/>
+</map>

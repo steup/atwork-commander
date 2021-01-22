@@ -1,0 +1,4 @@
+<map id="atwork_commander::com_plugin::Base::initialize" name="atwork_commander::com_plugin::Base::initialize">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1com__plugin_1_1Base.html#a68b4af01521ed873683cba8fd7e5740c" title="In this function the plugIn can do some initialisation depending on a ROS NodeHandle. " alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1com__plugin_1_1Base.html#a9e6ac618ea17e6b6c3bdce027b8fc906" title="atwork_commander::com\l_plugin::Base::sendTask" alt="" coords="223,71,392,112"/>
+</map>

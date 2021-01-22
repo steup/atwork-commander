@@ -1,0 +1,6 @@
+<map id="atwork_commander::ControlImpl::stop" name="atwork_commander::ControlImpl::stop">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1Control.html#a7fff8db983aba8be78b76aa5d49d1747" title="Command to stop the ongoing task of the RefBox. " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$control__node_8cpp.html#aef1bb144bc6c180c58ad077faa817079" title="stop" alt="" coords="475,13,521,39"/>
+<area shape="rect" id="node4" href="$control__node_8cpp.html#a98733d6ad140ddb4f5a57388e89684ea" title="stateUpdate" alt="" coords="569,13,663,39"/>
+<area shape="rect" id="node5" href="$control__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="711,13,761,39"/>
+</map>

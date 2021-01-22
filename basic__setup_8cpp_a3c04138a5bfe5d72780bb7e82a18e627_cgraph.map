@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1Control.html#a1c41197baa292fac512b2d5f9971adf5" title="Command to forward the current state of the RefBox manually. " alt="" coords="104,71,291,112"/>
+<area shape="rect" id="node7" href="$classatwork__commander_1_1Control.html#a0be93e60d9410ceaad5af2bc7a62c771" title="Command to generate a new Task on the RefBox. " alt="" coords="104,136,291,177"/>
+<area shape="rect" id="node9" href="$classatwork__commander_1_1Control.html#a03d7ab8dde7ac8c41b29a9480b013ed6" title="Command to start the current Task of the RefBox. " alt="" coords="104,5,291,47"/>
+<area shape="rect" id="node11" href="$classatwork__commander_1_1Control.html#a2e6e218794bada422610486644e8d4c5" title="Getter of RefBox state. " alt="" coords="104,201,291,243"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1ControlImpl.html#a5628bbe3067a289d3d1dda5f59e9cece" title="atwork_commander::Control\lImpl::forward" alt="" coords="339,71,525,112"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="573,71,760,112"/>
+<area shape="rect" id="node5" href="$namespaceatwork__commander__msgs.html#a9ecf5e83b56ed832452324374f4ec311" title="atwork_commander_msgs\l::stateName" alt="" coords="579,5,754,47"/>
+<area shape="rect" id="node6" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="585,137,749,163"/>
+<area shape="rect" id="node8" href="$classatwork__commander_1_1ControlImpl.html#aa442ba265143eca7295803670ef72f3d" title="atwork_commander::Control\lImpl::generate" alt="" coords="339,136,525,177"/>
+<area shape="rect" id="node10" href="$classatwork__commander_1_1ControlImpl.html#a61e7adc72e3d1ae5f8ba7099e7ea1a58" title="atwork_commander::Control\lImpl::start" alt="" coords="339,5,525,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="atwork_commander::VisGroup::update" name="atwork_commander::VisGroup::update">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1ArenaVisGroup.html#a899fc8ee1b58b87e9610e847210c0533" title="atwork_commander::ArenaVis\lGroup::ArenaVisGroup" alt="" coords="253,5,450,47"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1VisGroup.html#a3625a60aa0c1c5bb1bfa16deef78e9eb" title="atwork_commander::VisGroup\l::getLayout" alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1RobotVisGroup.html#a1d86fbae204006674a9bc814e3cf53ac" title="atwork_commander::RobotVis\lGroup::RobotVisGroup" alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1TaskGenVisGroup.html#a65753ffc596778a71ee4149bf58f8baa" title="atwork_commander::TaskGen\lVisGroup::TaskGenVisGroup" alt="" coords="253,201,450,243"/>
+<area shape="rect" id="node7" href="$classatwork__commander_1_1TaskGenVisGroup.html#a4116a3e6099aad72efd5734c17d4ed65" title="wire connects and disconnect ALL existing Signal&#45;Slots Connections " alt="" coords="253,267,450,308"/>
+<area shape="rect" id="node8" href="$classatwork__commander_1_1RobotVisGroup.html#a80dff47edf49a17fc3b1f5686eca6855" title="wire connects and disconnect ALL existing Signal&#45;Slots Connections " alt="" coords="252,332,451,373"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1RefboxUI.html#a5f630563e6d29e93e68ac3cfcecc9f96" title="atwork_commander::Refbox\lUI::RefboxUI" alt="" coords="499,71,685,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="atwork_commander::com_plugin::ros::TaskObjectCentric::sendTask" name="atwork_commander::com_plugin::ros::TaskObjectCentric::sendTask">
+<area shape="rect" id="node2" href="$control__node_8cpp.html#a92904aa73140a9bcbc31b3f01cbc1b91" title="start" alt="" coords="260,64,308,91"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1Control.html#a03d7ab8dde7ac8c41b29a9480b013ed6" title="Command to start the current Task of the RefBox. " alt="" coords="356,57,543,98"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1ControlImpl.html#a61e7adc72e3d1ae5f8ba7099e7ea1a58" title="atwork_commander::Control\lImpl::start" alt="" coords="591,57,777,98"/>
+<area shape="rect" id="node5" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="837,5,1001,32"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="825,57,1012,98"/>
+<area shape="rect" id="node7" href="$namespaceatwork__commander__msgs.html#a9ecf5e83b56ed832452324374f4ec311" title="atwork_commander_msgs\l::stateName" alt="" coords="831,122,1006,163"/>
+</map>

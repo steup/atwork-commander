@@ -1,0 +1,9 @@
+<map id="atwork_commander::StateTracker::taskUpdate" name="atwork_commander::StateTracker::taskUpdate">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1StateTracker.html#a107ea4b9a37d39d2251f29451ae8db1d" title="atwork_commander::StateTracker\l::stateUpdate" alt="" coords="272,136,491,177"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1StateTracker.html#afcd4c5067b7726a76377fc5301a0453b" title="atwork_commander::StateTracker\l::externalStateUpdate" alt="" coords="539,5,757,47"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1StateTracker.html#a7ebcaac71f40542c6c14a92f421667be" title="atwork_commander::StateTracker\l::generateTask" alt="" coords="539,71,757,112"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1StateTracker.html#a2973d1f1892346cb3f1cd4679ab16e2d" title="atwork_commander::StateTracker\l::loadTask" alt="" coords="539,136,757,177"/>
+<area shape="rect" id="node7" href="$classatwork__commander_1_1StateTracker.html#aece66cd098363aa9c95d5904ce04d3ed" title="atwork_commander::StateTracker\l::receiveRobotStateClb" alt="" coords="539,201,757,243"/>
+<area shape="rect" id="node8" href="$classatwork__commander_1_1StateTracker.html#a79ed664ccbff9446abb3f711872634c7" title="atwork_commander::StateTracker\l::startTask" alt="" coords="539,267,757,308"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1StateTracker.html#a37b9d873242eff25d4c09213626dd3ae" title="atwork_commander::StateTracker\l::StateTracker" alt="" coords="805,136,1024,177"/>
+</map>

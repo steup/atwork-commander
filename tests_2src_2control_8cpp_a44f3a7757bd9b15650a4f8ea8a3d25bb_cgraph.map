@@ -1,0 +1,8 @@
+<map id="TEST_F" name="TEST_F">
+<area shape="rect" id="node2" href="$control__node_8cpp.html#a92904aa73140a9bcbc31b3f01cbc1b91" title="start" alt="" coords="124,78,172,105"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1Control.html#a03d7ab8dde7ac8c41b29a9480b013ed6" title="Command to start the current Task of the RefBox. " alt="" coords="220,71,407,112"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1ControlImpl.html#a61e7adc72e3d1ae5f8ba7099e7ea1a58" title="atwork_commander::Control\lImpl::start" alt="" coords="455,71,641,112"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="689,5,876,47"/>
+<area shape="rect" id="node6" href="$namespaceatwork__commander__msgs.html#a9ecf5e83b56ed832452324374f4ec311" title="atwork_commander_msgs\l::stateName" alt="" coords="695,71,870,112"/>
+<area shape="rect" id="node7" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="701,137,865,163"/>
+</map>

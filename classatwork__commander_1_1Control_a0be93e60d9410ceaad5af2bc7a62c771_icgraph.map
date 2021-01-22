@@ -1,0 +1,9 @@
+<map id="atwork_commander::Control::generate" name="atwork_commander::Control::generate">
+<area shape="rect" id="node2" href="$control__node_8cpp.html#ae7f1525a6480d4cc745dc300c883f55e" title="generate" alt="" coords="240,31,312,57"/>
+<area shape="rect" id="node8" href="$basic__setup_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="251,81,301,108"/>
+<area shape="rect" id="node3" href="$structRefboxMockBase.html#a853adab4d4ebd43316656b9228d85b6d" title="RefboxMockBase::generateCall" alt="" coords="360,5,567,32"/>
+<area shape="rect" id="node6" href="$control__node_8cpp.html#a98733d6ad140ddb4f5a57388e89684ea" title="stateUpdate" alt="" coords="417,56,510,83"/>
+<area shape="rect" id="node4" href="$structRefboxMockBase.html#a4b3ccf44781edf61e4f6382899fdbf26" title="RefboxMockBase::connect" alt="" coords="615,5,795,32"/>
+<area shape="rect" id="node5" href="$structControlTests.html#a2bc96f00c7bf8ee99a12bf53094c63fd" title="ControlTests::SetUp" alt="" coords="843,5,985,32"/>
+<area shape="rect" id="node7" href="$control__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="679,56,730,83"/>
+</map>

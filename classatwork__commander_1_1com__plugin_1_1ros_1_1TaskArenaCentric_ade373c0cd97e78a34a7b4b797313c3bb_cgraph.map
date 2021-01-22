@@ -1,0 +1,5 @@
+<map id="atwork_commander::com_plugin::ros::TaskArenaCentric::onInit" name="atwork_commander::com_plugin::ros::TaskArenaCentric::onInit">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1com__plugin_1_1ros_1_1TaskArenaCentric.html#a557f44d9b6eb23e10c4f8a7118f8e115" title="atwork_commander::com\l_plugin::ros::TaskArenaCentric\l::receiveRobotStateClb" alt="" coords="256,27,459,83"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1com__plugin_1_1Base.html#a264e3071cb9f86e81b7fe3e0e70e0d1e" title="atwork_commander::com\l_plugin::Base::sendRobotState" alt="" coords="508,5,711,47"/>
+<area shape="rect" id="node4" href="$jurek_2Generator_8cpp.html#a28c1581327242b076230921c81cb75a4" title="PLUGINLIB_EXPORT_CLASS" alt="" coords="507,71,712,98"/>
+</map>

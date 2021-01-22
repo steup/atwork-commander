@@ -1,0 +1,7 @@
+<map id="atwork_commander::task_generator::jurek::Generator::onInit" name="atwork_commander::task_generator::jurek::Generator::onInit">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1task__generator_1_1DefaultConfigParser.html#a71ede20472bea4b2008ac5ff269bd803" title="atwork_commander::task\l_generator::DefaultConfigParser\l::arena" alt="" coords="237,5,447,61"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a28ede1164fe37346ccd08d3eb8263739" title="atwork_commander::task\l_generator::jurek::Generator\l::extractCavities" alt="" coords="250,85,434,141"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#ac061c8239af92034feac985821de9be9" title="atwork_commander::task\l_generator::jurek::Generator\l::extractObjectTypes" alt="" coords="250,165,434,221"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1ConfigParserInterface.html#a4e87712c6a4bb07aba934e5600619565" title="atwork_commander::Config\lParserInterface::reload" alt="" coords="251,245,433,286"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#adb189ab93716d6035972a17cdd7d94fb" title="atwork_commander::task\l_generator::jurek::Generator\l::sanityCheck" alt="" coords="250,309,434,365"/>
+</map>

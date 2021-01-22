@@ -1,0 +1,4 @@
+<map id="atwork_commander::VisGroup::getLayout" name="atwork_commander::VisGroup::getLayout">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1VisGroup.html#ab16f264ab8442490f30803048a6f0112" title="Disable update of the Widget if hasFocus returns true. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1VisGroup.html#a4cb190b5198ab8de98ff2163932d5114" title="Causes the Widget to update itself. " alt="" coords="252,71,451,112"/>
+</map>

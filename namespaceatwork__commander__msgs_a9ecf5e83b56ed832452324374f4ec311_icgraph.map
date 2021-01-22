@@ -1,0 +1,26 @@
+<map id="atwork_commander_msgs::stateName" name="atwork_commander_msgs::stateName">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1ControlImpl.html#a5628bbe3067a289d3d1dda5f59e9cece" title="atwork_commander::Control\lImpl::forward" alt="" coords="228,34,415,75"/>
+<area shape="rect" id="node8" href="$classatwork__commander_1_1ControlImpl.html#a61e7adc72e3d1ae5f8ba7099e7ea1a58" title="atwork_commander::Control\lImpl::start" alt="" coords="228,165,415,206"/>
+<area shape="rect" id="node23" href="$classatwork__commander_1_1ControlImpl.html#aaf1ece7e47d04a8963468f0b169a400b" title="atwork_commander::Control\lImpl::stop" alt="" coords="228,99,415,141"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1Control.html#a1c41197baa292fac512b2d5f9971adf5" title="Command to forward the current state of the RefBox manually. " alt="" coords="463,34,649,75"/>
+<area shape="rect" id="node4" href="$control__node_8cpp.html#af9d4be400cd482065e05d3fe6809d499" title="forward" alt="" coords="697,5,763,32"/>
+<area shape="rect" id="node7" href="$basic__setup_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="705,56,755,83"/>
+<area shape="rect" id="node5" href="$control__node_8cpp.html#a98733d6ad140ddb4f5a57388e89684ea" title="stateUpdate" alt="" coords="867,5,961,32"/>
+<area shape="rect" id="node6" href="$control__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1132,5,1183,32"/>
+<area shape="rect" id="node9" href="$classatwork__commander_1_1Control.html#a03d7ab8dde7ac8c41b29a9480b013ed6" title="Command to start the current Task of the RefBox. " alt="" coords="463,165,649,206"/>
+<area shape="rect" id="node10" href="$control__node_8cpp.html#a92904aa73140a9bcbc31b3f01cbc1b91" title="start" alt="" coords="706,281,754,308"/>
+<area shape="rect" id="node11" href="$classatwork__commander_1_1task__generator_1_1simple_1_1Generator.html#a0515fa959863c880c68a7b02f0354af1" title="atwork_commander::task\l_generator::simple::Generator\l::extractTablesByTypes" alt="" coords="817,107,1011,163"/>
+<area shape="rect" id="node12" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a70cc89ff444ae7b05324a744e852fd92" title="atwork_commander::task\l_generator::jurek::Generator\l::fromTask" alt="" coords="822,187,1006,243"/>
+<area shape="rect" id="node14" href="$classatwork__commander_1_1task__generator_1_1simple_1_1Generator.html#ae43f7548b2a38f70517904984353d741" title="atwork_commander::task\l_generator::simple::Generator\l::generateCavities" alt="" coords="817,267,1011,323"/>
+<area shape="rect" id="node15" href="$classatwork__commander_1_1task__generator_1_1simple_1_1Generator.html#aeed622f5caca536e6081abc394f4ab6f" title="atwork_commander::task\l_generator::simple::Generator\l::generateContainers" alt="" coords="817,347,1011,403"/>
+<area shape="rect" id="node16" href="$classatwork__commander_1_1task__generator_1_1simple_1_1Generator.html#aa392cc94f4e6c7b515066c94637864a3" title="atwork_commander::task\l_generator::simple::Generator\l::generateImpl" alt="" coords="817,427,1011,483"/>
+<area shape="rect" id="node17" href="$classatwork__commander_1_1task__generator_1_1simple_1_1Generator.html#a061ffb97af3746a1667192d58ac0d1e9" title="atwork_commander::task\l_generator::simple::Generator\l::generateObjects" alt="" coords="817,507,1011,563"/>
+<area shape="rect" id="node18" href="$classatwork__commander_1_1com__plugin_1_1ros_1_1TaskObjectCentric.html#a3ebc7c27450a6b6775f1aeda32610d9c" title="atwork_commander::com\l_plugin::ros::TaskObjectCentric\l::sendTask" alt="" coords="811,587,1017,643"/>
+<area shape="rect" id="node19" href="$structRefboxMockBase.html#a7e9673745c84952c97ebff920f58693b" title="RefboxMockBase::startCall" alt="" coords="823,667,1005,693"/>
+<area shape="rect" id="node22" href="$tests_2src_2control_8cpp.html#a20da634552403fe88d29dd9bfaabb42c" title="TEST_F" alt="" coords="879,56,949,83"/>
+<area shape="rect" id="node13" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a25c39f9ca5492f944c61ed463ba0b36b" title="atwork_commander::task\l_generator::jurek::Generator\l::check" alt="" coords="1065,187,1249,243"/>
+<area shape="rect" id="node20" href="$structRefboxMockBase.html#a4b3ccf44781edf61e4f6382899fdbf26" title="RefboxMockBase::connect" alt="" coords="1067,667,1247,693"/>
+<area shape="rect" id="node21" href="$structControlTests.html#a2bc96f00c7bf8ee99a12bf53094c63fd" title="ControlTests::SetUp" alt="" coords="1297,667,1440,693"/>
+<area shape="rect" id="node24" href="$classatwork__commander_1_1Control.html#a7fff8db983aba8be78b76aa5d49d1747" title="Command to stop the ongoing task of the RefBox. " alt="" coords="463,99,649,141"/>
+<area shape="rect" id="node25" href="$control__node_8cpp.html#aef1bb144bc6c180c58ad077faa817079" title="stop" alt="" coords="707,107,753,133"/>
+</map>

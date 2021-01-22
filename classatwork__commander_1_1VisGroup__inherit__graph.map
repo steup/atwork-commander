@@ -1,0 +1,6 @@
+<map id="atwork_commander::VisGroup" name="atwork_commander::VisGroup">
+<area shape="rect" id="node3" href="$classatwork__commander_1_1ArenaVisGroup.html" title="Qt widget displaying task generator information. " alt="" coords="374,5,571,47"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1MainVisGroup.html" title="The outer Widget managing all subGroups. " alt="" coords="377,71,568,112"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1RobotVisGroup.html" title="Qt widget displaying robot information and control buttons. " alt="" coords="373,136,572,177"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1TaskGenVisGroup.html" title="Qt widget displaying task generator information. " alt="" coords="374,201,571,243"/>
+</map>

@@ -1,0 +1,28 @@
+var structRefboxMockBase =
+[
+    [ "RefboxWrapper", "classRefboxMockBase_1_1RefboxWrapper.html", "classRefboxMockBase_1_1RefboxWrapper" ],
+    [ "RefboxMockBase", "structRefboxMockBase.html#a06203f7cf1f93b2bdfa58bc1d33418fa", null ],
+    [ "~RefboxMockBase", "structRefboxMockBase.html#a509f3270aa9e64284bbc8b4222e2f8ef", null ],
+    [ "connect", "structRefboxMockBase.html#a4b3ccf44781edf61e4f6382899fdbf26", null ],
+    [ "disconnect", "structRefboxMockBase.html#a17bb994a855e19ab83860eaf19af15d7", null ],
+    [ "generate", "structRefboxMockBase.html#a98311cfd5ca86eaa5a512cb5521d13e5", null ],
+    [ "generateCall", "structRefboxMockBase.html#a853adab4d4ebd43316656b9228d85b6d", null ],
+    [ "loadTask", "structRefboxMockBase.html#aaf4b785de68e1aced566ca816184b869", null ],
+    [ "loadTaskCall", "structRefboxMockBase.html#a5732bf17e0bef1b66f566da5f926816c", null ],
+    [ "periodic", "structRefboxMockBase.html#a953ca9650012845aa27ad00f2216f667", null ],
+    [ "start", "structRefboxMockBase.html#a8e6993135cea6240b1cc745d4195e1b6", null ],
+    [ "startCall", "structRefboxMockBase.html#a7e9673745c84952c97ebff920f58693b", null ],
+    [ "stateChange", "structRefboxMockBase.html#aa75b42e65969f27986953b27ebf8fbbd", null ],
+    [ "stateChangeCall", "structRefboxMockBase.html#a6ba2f6e52a598f161b442d094dcbce4a", null ],
+    [ "generateSrv", "structRefboxMockBase.html#a0b2ebde78ed89dc66128db964717bbc2", null ],
+    [ "loadSrv", "structRefboxMockBase.html#a4f29f92db575feb2e0e8055b9e43fb80", null ],
+    [ "queue", "structRefboxMockBase.html#ad7c88d4473be440be44204e917289ea5", null ],
+    [ "run", "structRefboxMockBase.html#a535bfa5be6c7a659dc61f6dc66c70eb4", null ],
+    [ "startSrv", "structRefboxMockBase.html#aa6dc757c8f9a6abb9a0b06488912bda5", null ],
+    [ "state", "structRefboxMockBase.html#aa6acda6b4cee412a4a6622695773a629", null ],
+    [ "stateChangeSrv", "structRefboxMockBase.html#a5555ddfe310e5b24cb0a0165c716cdc7", null ],
+    [ "statePub", "structRefboxMockBase.html#ab18c85775f5bbc608ca71cbc725edd3c", null ],
+    [ "stopped", "structRefboxMockBase.html#acb7a922abb2f94d5079e87e9a1f28ce4", null ],
+    [ "storeSrv", "structRefboxMockBase.html#a11a346801f069a941abd33999e3d1a0d", null ],
+    [ "timer", "structRefboxMockBase.html#a8f7a57ce011073e89c11b319f9639b02", null ]
+];

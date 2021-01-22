@@ -1,0 +1,6 @@
+<map id="load" name="load">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1Control.html#a37613a7516afdbb671a79cfbe5de22fc" title="Command to load a locally stored task in the RefBox. " alt="" coords="100,35,287,76"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1ControlImpl.html#ab5b74ad5c6560c7d7e6111a6e85cbbfe" title="atwork_commander::Control\lImpl::load" alt="" coords="335,35,521,76"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="569,5,756,47"/>
+<area shape="rect" id="node5" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="581,71,745,98"/>
+</map>

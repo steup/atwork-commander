@@ -1,0 +1,7 @@
+<map id="forward" name="forward">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1Control.html#a1c41197baa292fac512b2d5f9971adf5" title="Command to forward the current state of the RefBox manually. " alt="" coords="119,71,305,112"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1ControlImpl.html#a5628bbe3067a289d3d1dda5f59e9cece" title="atwork_commander::Control\lImpl::forward" alt="" coords="353,71,540,112"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="588,5,775,47"/>
+<area shape="rect" id="node5" href="$namespaceatwork__commander__msgs.html#a9ecf5e83b56ed832452324374f4ec311" title="atwork_commander_msgs\l::stateName" alt="" coords="594,71,769,112"/>
+<area shape="rect" id="node6" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="599,137,763,163"/>
+</map>

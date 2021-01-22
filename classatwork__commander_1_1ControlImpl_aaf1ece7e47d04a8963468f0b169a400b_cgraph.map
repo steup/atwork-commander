@@ -1,0 +1,5 @@
+<map id="atwork_commander::ControlImpl::stop" name="atwork_commander::ControlImpl::stop">
+<area shape="rect" id="node2" href="$namespaceatwork__commander.html#a144d24cd0805258cbfd6f8cb8795feca" title="atwork_commander::call" alt="" coords="251,5,415,32"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1ControlError.html#aa8e0a508d07409af6b9ccc3f2b04862c" title="Constructor taking the error description. " alt="" coords="240,57,427,98"/>
+<area shape="rect" id="node4" href="$namespaceatwork__commander__msgs.html#a9ecf5e83b56ed832452324374f4ec311" title="atwork_commander_msgs\l::stateName" alt="" coords="246,122,421,163"/>
+</map>

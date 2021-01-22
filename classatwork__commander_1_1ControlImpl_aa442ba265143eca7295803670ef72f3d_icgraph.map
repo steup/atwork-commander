@@ -1,0 +1,10 @@
+<map id="atwork_commander::ControlImpl::generate" name="atwork_commander::ControlImpl::generate">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1Control.html#a0be93e60d9410ceaad5af2bc7a62c771" title="Command to generate a new Task on the RefBox. " alt="" coords="240,49,427,90"/>
+<area shape="rect" id="node3" href="$control__node_8cpp.html#ae7f1525a6480d4cc745dc300c883f55e" title="generate" alt="" coords="475,31,547,57"/>
+<area shape="rect" id="node9" href="$basic__setup_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="485,81,536,108"/>
+<area shape="rect" id="node4" href="$structRefboxMockBase.html#a853adab4d4ebd43316656b9228d85b6d" title="RefboxMockBase::generateCall" alt="" coords="595,5,801,32"/>
+<area shape="rect" id="node7" href="$control__node_8cpp.html#a98733d6ad140ddb4f5a57388e89684ea" title="stateUpdate" alt="" coords="651,56,745,83"/>
+<area shape="rect" id="node5" href="$structRefboxMockBase.html#a4b3ccf44781edf61e4f6382899fdbf26" title="RefboxMockBase::connect" alt="" coords="849,5,1029,32"/>
+<area shape="rect" id="node6" href="$structControlTests.html#a2bc96f00c7bf8ee99a12bf53094c63fd" title="ControlTests::SetUp" alt="" coords="1077,5,1220,32"/>
+<area shape="rect" id="node8" href="$control__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="914,56,965,83"/>
+</map>

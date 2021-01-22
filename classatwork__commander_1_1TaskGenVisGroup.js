@@ -1,0 +1,28 @@
+var classatwork__commander_1_1TaskGenVisGroup =
+[
+    [ "TaskGenVisGroup", "classatwork__commander_1_1TaskGenVisGroup.html#a65753ffc596778a71ee4149bf58f8baa", null ],
+    [ "~TaskGenVisGroup", "classatwork__commander_1_1TaskGenVisGroup.html#aea8b993d14a869ef5ad212db2c3cdd71", null ],
+    [ "generateTask", "classatwork__commander_1_1TaskGenVisGroup.html#af031c28eda39621ff358b324522ed360", null ],
+    [ "hasFocus", "classatwork__commander_1_1TaskGenVisGroup.html#acb4130d9dfae52c06378a022894a4f22", null ],
+    [ "printArenaStateList", "classatwork__commander_1_1TaskGenVisGroup.html#ad80f0a0163cf06a0d9d050740260f0c6", null ],
+    [ "update", "classatwork__commander_1_1TaskGenVisGroup.html#a74396637fcccdcbb9db26f9d55b1564a", null ],
+    [ "wire", "classatwork__commander_1_1TaskGenVisGroup.html#a4116a3e6099aad72efd5734c17d4ed65", null ],
+    [ "arenaEndLabel", "classatwork__commander_1_1TaskGenVisGroup.html#ae584fdf599876f0635dcc74c771b61d4", null ],
+    [ "arenaEndText", "classatwork__commander_1_1TaskGenVisGroup.html#a3bf20b546d90f9e7343ac34174640106", null ],
+    [ "arenaEndVBox", "classatwork__commander_1_1TaskGenVisGroup.html#a75240695acb7f75e1d81d1f7c2785856", null ],
+    [ "arenaHBox", "classatwork__commander_1_1TaskGenVisGroup.html#ad36d6bdc6b746d5783eabdbedfa37785", null ],
+    [ "arenaStartLabel", "classatwork__commander_1_1TaskGenVisGroup.html#a5920db3bf57c6fbf8b2a7a343cf5f0eb", null ],
+    [ "arenaStartText", "classatwork__commander_1_1TaskGenVisGroup.html#a542c16e471d39fffe6422a4a28a81322", null ],
+    [ "arenaStartVBox", "classatwork__commander_1_1TaskGenVisGroup.html#a5456badb4a6a7f1bc85851c5d03be6b2", null ],
+    [ "basicHBox", "classatwork__commander_1_1TaskGenVisGroup.html#a22f3299e490283fd2bfe60bd5ae7b97a", null ],
+    [ "buttonHBox", "classatwork__commander_1_1TaskGenVisGroup.html#a06d78833c98d1193fdf650689a6fdf73", null ],
+    [ "generateButton", "classatwork__commander_1_1TaskGenVisGroup.html#a2ed11a87bf99641180700d19fd79d9d9", null ],
+    [ "loadButton", "classatwork__commander_1_1TaskGenVisGroup.html#a5ebe04e2a29d8cfa504e8a84ff24c135", null ],
+    [ "pptCavatiesLineEdit", "classatwork__commander_1_1TaskGenVisGroup.html#a46ae6a083346cd6a490642655670e2e0", null ],
+    [ "prepTimeLabel", "classatwork__commander_1_1TaskGenVisGroup.html#a6a3a0065a267407b9839dc33c3d2e649", null ],
+    [ "prepTimeLineEdit", "classatwork__commander_1_1TaskGenVisGroup.html#a6bf2d490e428f47858c17bf0e53b02c9", null ],
+    [ "runTimeLabel", "classatwork__commander_1_1TaskGenVisGroup.html#a5f01e2ffe78337e296d9707d0fc1ec6c", null ],
+    [ "runTimeLineEdit", "classatwork__commander_1_1TaskGenVisGroup.html#a38f41726ac6bcc7bd6ee058f7633fbad", null ],
+    [ "taskListCombo", "classatwork__commander_1_1TaskGenVisGroup.html#affa2135c7fb5c30e3cca41b28d0fdb21", null ],
+    [ "taskListLabel", "classatwork__commander_1_1TaskGenVisGroup.html#a6f45831122e2f16244cea7b8d5e81a2f", null ]
+];

@@ -1,0 +1,8 @@
+<map id="atwork_commander::RefboxUI::RefboxUI" name="atwork_commander::RefboxUI::RefboxUI">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1VisGroup.html#a3625a60aa0c1c5bb1bfa16deef78e9eb" title="atwork_commander::VisGroup\l::getLayout" alt="" coords="240,71,439,112"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1MainVisGroup.html#af1c7fd751989c17ebfff0d726eebcee4" title="Hand a VisGroup&#45;SubClass&#45;Instance over to the MainVisGroup. " alt="" coords="244,136,435,177"/>
+<area shape="rect" id="node7" href="$classatwork__commander_1_1MainVisGroup.html#aa1792b6615522d05178030a9e2315796" title="atwork_commander::MainVis\lGroup::setControlPtr" alt="" coords="244,201,435,243"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1VisGroup.html#ab16f264ab8442490f30803048a6f0112" title="Disable update of the Widget if hasFocus returns true. " alt="" coords="487,5,685,47"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1VisGroup.html#a4cb190b5198ab8de98ff2163932d5114" title="Causes the Widget to update itself. " alt="" coords="487,71,685,112"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1VisGroup.html#afcbff2fc94b97091181b9ddb2386eb5f" title="atwork_commander::VisGroup\l::getWidget" alt="" coords="487,136,685,177"/>
+</map>

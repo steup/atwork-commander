@@ -1,0 +1,10 @@
+<map id="atwork_commander::task_generator::jurek::Generator::toObjectType" name="atwork_commander::task_generator::jurek::Generator::toObjectType">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a20d254a95d96bb7cb48b740ab79676c3" title="atwork_commander::task\l_generator::jurek::Generator\l::generateImpl" alt="" coords="701,133,885,189"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#ad315f8b6419a2eb9d41d046283031036" title="atwork_commander::task\l_generator::jurek::Generator\l::toTaskObject" alt="" coords="237,97,421,153"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a85a2c2f9b418a91faf01964ce75f0562" title="atwork_commander::task\l_generator::jurek::Generator\l::generate" alt="" coords="933,133,1117,189"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#adfa0436b500de7d24bfb09d34c9b0074" title="atwork_commander::task\l_generator::jurek::Generator\l::toTaskObject" alt="" coords="469,53,653,109"/>
+<area shape="rect" id="node6" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a598368025bb6d251d96bad44da2a7d94" title="atwork_commander::task\l_generator::jurek::Generator\l::readParameters" alt="" coords="469,213,653,269"/>
+<area shape="rect" id="node9" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a8e4768730cfb7f3c27dc6225e629e2bb" title="atwork_commander::task\l_generator::jurek::Generator\l::generate_objects" alt="" coords="469,133,653,189"/>
+<area shape="rect" id="node7" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a70cc89ff444ae7b05324a744e852fd92" title="atwork_commander::task\l_generator::jurek::Generator\l::fromTask" alt="" coords="701,213,885,269"/>
+<area shape="rect" id="node8" href="$classatwork__commander_1_1task__generator_1_1jurek_1_1Generator.html#a25c39f9ca5492f944c61ed463ba0b36b" title="atwork_commander::task\l_generator::jurek::Generator\l::check" alt="" coords="933,213,1117,269"/>
+</map>

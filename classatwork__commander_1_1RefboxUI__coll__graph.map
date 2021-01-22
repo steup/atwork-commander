@@ -1,0 +1,7 @@
+<map id="atwork_commander::RefboxUI" name="atwork_commander::RefboxUI">
+<area shape="rect" id="node3" href="$classatwork__commander_1_1TaskGenVisGroup.html" title="Qt widget displaying task generator information. " alt="" coords="517,601,714,643"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1VisGroup.html" title="Abstract Base Class VisGroup. " alt="" coords="136,105,335,131"/>
+<area shape="rect" id="node13" href="$classatwork__commander_1_1MainVisGroup.html" title="The outer Widget managing all subGroups. " alt="" coords="831,99,1021,140"/>
+<area shape="rect" id="node15" href="$classatwork__commander_1_1RobotVisGroup.html" title="Qt widget displaying robot information and control buttons. " alt="" coords="516,176,715,217"/>
+<area shape="rect" id="node16" href="$classatwork__commander_1_1ArenaVisGroup.html" title="Qt widget displaying task generator information. " alt="" coords="517,241,714,283"/>
+</map>

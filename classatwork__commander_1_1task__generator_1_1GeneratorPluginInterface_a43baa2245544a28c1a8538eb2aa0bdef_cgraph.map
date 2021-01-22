@@ -1,0 +1,6 @@
+<map id="atwork_commander::task_generator::GeneratorPluginInterface::~GeneratorPluginInterface" name="atwork_commander::task_generator::GeneratorPluginInterface::~GeneratorPluginInterface">
+<area shape="rect" id="node2" href="$classatwork__commander_1_1task__generator_1_1GeneratorPluginInterface.html#aefa566cd205f5e3906154bd11beb0daf" title="atwork_commander::task\l_generator::GeneratorPluginInterface\l::check" alt="" coords="288,5,523,61"/>
+<area shape="rect" id="node3" href="$classatwork__commander_1_1task__generator_1_1GeneratorPluginInterface.html#aa2240a3c46a2ea395608b754683bd3ef" title="atwork_commander::task\l_generator::GeneratorPluginInterface\l::config" alt="" coords="288,85,523,141"/>
+<area shape="rect" id="node4" href="$classatwork__commander_1_1task__generator_1_1GeneratorPluginInterface.html#ac5635efca999bcfc3294b50ddfc19da1" title="atwork_commander::task\l_generator::GeneratorPluginInterface\l::generate" alt="" coords="288,165,523,221"/>
+<area shape="rect" id="node5" href="$classatwork__commander_1_1task__generator_1_1GeneratorPluginInterface.html#a43cd14ee511318dfe71d5dddbe265e88" title="atwork_commander::task\l_generator::GeneratorPluginInterface\l::onInit" alt="" coords="288,245,523,301"/>
+</map>
